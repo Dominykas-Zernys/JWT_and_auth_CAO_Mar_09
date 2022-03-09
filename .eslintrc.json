@@ -11,5 +11,8 @@
         "ecmaVersion": "latest"
     },
     "rules": {
+        "linebreak-style": ["off", "unix"],
+        "no-console": "off",
+        "consistent-return": "off"   
     }
 }
